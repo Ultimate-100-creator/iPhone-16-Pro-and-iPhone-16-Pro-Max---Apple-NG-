@@ -1,0 +1,59 @@
+/*------------------------------------*\
+   LOCAL SCREENS
+\*------------------------------------*/
+
+
+
+
+
+
+/*------------------------------------*\
+   END LOCAL SCREENS
+\*------------------------------------*/ 
+
+
+
+
+/*------------------------------------*\
+   LOCAL FIXES
+\*------------------------------------*/
+
+
+@media (min-width: 1441px) {
+	.section-welcome .welcome-content {
+		padding-top: 289px;
+	}
+}
+
+@media (min-width: 1069px) and (max-width: 1440px) {
+	.section-welcome .welcome-content {
+		padding-top: 237px;
+	}
+}
+
+@media (min-width: 735px) and (max-width: 1068px) {
+	.section-welcome .welcome-content {
+		min-height: 698px;
+		padding-top: 211px;
+	}
+}
+
+@media (min-width: 481px) and (max-width: 734px) {
+	.section-welcome .welcome-content {
+		min-height: 424px;
+		padding-top: 121px;
+	}
+}
+
+@media (max-width: 480px) {
+	.section-welcome .welcome-content {
+		padding-top: 81px;
+	}
+}
+
+
+
+
+/*------------------------------------*\
+   END LOCAL FIXES
+\*------------------------------------*/ 
